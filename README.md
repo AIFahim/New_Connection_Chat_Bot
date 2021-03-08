@@ -33,7 +33,14 @@ MVC | Python | Telegram API | Heroku
 
 ## Development Stage
  - Create Virtual Environment : `python3 -m venv telenv3`
- -
+ - Activated Environment :  `source telev3/bin/activate`
+ - Installed telegram bot package :  `pip install python-telegram-bot`
+ - Installed gunicorn : `pip install gunicorn` (But this not used till last)
+ - Installed Flask :  `pip install flask` (Needed for hosted heruko - webhook)
+ - Created heroku : `heroku create`
+ - After created heroku I got the host url from heroku and putted in the app.py 
+ - After git commit for changed files . Push to the heroku :  `git push heroku master`
+ - for error check : `heroku logs` or `heroku logs --tail`
 
 
 <hr>
