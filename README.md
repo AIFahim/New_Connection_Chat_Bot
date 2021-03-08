@@ -29,6 +29,12 @@ MVC | Python | Telegram API | Heroku
 
 ##  Let's Check: [Telegram Bot Link](t.me/AIFahimbot)
 
+<hr>
+
+## Development Stage
+ - Create Virtual Environment : `python3 -m venv telenv3`
+ -
+
 
 <hr>
 
