@@ -27,7 +27,7 @@ MVC | Python | Telegram API | Heroku
 
 <hr>
 
-##  Let's Check: [Telegram Bot Link](t.me/AIFahimbot)
+##  Let's Check: [Telegram Bot Link](t.me/AIFahimbot) (If link not work go with : t.me/AIFahimbot)
 
 <hr>
 
