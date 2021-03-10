@@ -62,7 +62,7 @@ Please help us follow the best practices to make it easy for the reviewer as wel
 
 <hr>
 
-## Maintainers and Developers
+## Maintainer and Developer
 This repository is owned and maintained by 
  * [Md. Asif Iqbal Fahim](https://github.com/AIFahim)
 
